@@ -1,7 +1,8 @@
 # Allow specific files and folders
 !finalProject/Code/Backends
+!finalProject/Code/frontend
 
 # Ignore node_modules everywhere
 **/node_modules/
-**/frontend
+**/public/
 
